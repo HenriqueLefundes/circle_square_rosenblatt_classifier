@@ -1,0 +1,92 @@
+eta = 0.5
+Ne = 5000
+Nt = 800
+dw = 10
+################################################ 
+Training 1 
+Training model using 10 batches 
+Time spent = 26.04794931411743 
+Accuracy = 69.5% 
+################################################ 
+Training 2 
+Training model using 60 batches 
+Time spent = 19.67822027206421 
+Accuracy = 71.5% 
+################################################ 
+Training 3 
+Training model using 110 batches 
+Time spent = 17.97844433784485 
+Accuracy = 73.5% 
+################################################ 
+Training 4 
+Training model using 160 batches 
+Time spent = 16.865341663360596 
+Accuracy = 69.0% 
+################################################ 
+Training 5 
+Training model using 210 batches 
+Time spent = 16.99984049797058 
+Accuracy = 66.5% 
+################################################ 
+Training 6 
+Training model using 260 batches 
+Time spent = 16.968205451965332 
+Accuracy = 72.5% 
+################################################ 
+Training 7 
+Training model using 310 batches 
+Time spent = 16.079052448272705 
+Accuracy = 70.0% 
+################################################ 
+Training 8 
+Training model using 360 batches 
+Time spent = 16.580600023269653 
+Accuracy = 66.5% 
+################################################ 
+Training 9 
+Training model using 410 batches 
+Time spent = 14.521680355072021 
+Accuracy = 64.0% 
+################################################ 
+Training 10 
+Training model using 460 batches 
+Time spent = 14.297036170959473 
+Accuracy = 63.5% 
+################################################ 
+Training 11 
+Training model using 510 batches 
+Time spent = 14.308196783065796 
+Accuracy = 64.5% 
+################################################ 
+Training 12 
+Training model using 560 batches 
+Time spent = 14.3591947555542 
+Accuracy = 67.0% 
+################################################ 
+Training 13 
+Training model using 610 batches 
+Time spent = 14.313512802124023 
+Accuracy = 66.0% 
+################################################ 
+Training 14 
+Training model using 660 batches 
+Time spent = 14.282050609588623 
+Accuracy = 65.0% 
+################################################ 
+Training 15 
+Training model using 710 batches 
+Time spent = 14.331814527511597 
+Accuracy = 62.5% 
+################################################ 
+Training 16 
+Training model using 760 batches 
+Time spent = 14.399469137191772 
+Accuracy = 63.0% 
+################################################ 
+Training 17 
+Training model using 800 batches 
+Time spent = 14.357740640640259 
+Accuracy = 62.0% 
+############## Analysis finished ##############
+Best accuracy score: 72.0%
+Best score at training 3 with 110 batches

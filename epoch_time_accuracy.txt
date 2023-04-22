@@ -1,0 +1,112 @@
+eta = 0.5
+Nb = 40
+Nt = 800
+dw = 10
+################################################ 
+Training 1 
+Training model using 1000 epochs 
+Time spent = 5.100557804107666 
+Accuracy = 70.0% 
+################################################ 
+Training 2 
+Training model using 6000 epochs 
+Time spent = 27.54609775543213 
+Accuracy = 70.0% 
+################################################ 
+Training 3 
+Training model using 11000 epochs 
+Time spent = 49.713879108428955 
+Accuracy = 70.5% 
+################################################ 
+Training 4 
+Training model using 16000 epochs 
+Time spent = 70.57548022270203 
+Accuracy = 71.0% 
+################################################ 
+Training 5 
+Training model using 21000 epochs 
+Time spent = 92.78431034088135 
+Accuracy = 70.5% 
+################################################ 
+Training 6 
+Training model using 26000 epochs 
+Time spent = 115.3836874961853 
+Accuracy = 70.5% 
+################################################ 
+Training 7 
+Training model using 31000 epochs 
+Time spent = 137.51987195014954 
+Accuracy = 69.5% 
+################################################ 
+Training 8 
+Training model using 36000 epochs 
+Time spent = 158.32111811637878 
+Accuracy = 69.0% 
+################################################ 
+Training 9 
+Training model using 41000 epochs 
+Time spent = 179.911602973938 
+Accuracy = 71.5% 
+################################################ 
+Training 10 
+Training model using 46000 epochs 
+Time spent = 202.05389380455017 
+Accuracy = 68.0% 
+################################################ 
+Training 11 
+Training model using 51000 epochs 
+Time spent = 223.63039779663086 
+Accuracy = 69.0% 
+################################################ 
+Training 12 
+Training model using 56000 epochs 
+Time spent = 244.34335899353027 
+Accuracy = 70.0% 
+################################################ 
+Training 13 
+Training model using 61000 epochs 
+Time spent = 267.21431517601013 
+Accuracy = 72.0% 
+################################################ 
+Training 14 
+Training model using 66000 epochs 
+Time spent = 290.5066788196564 
+Accuracy = 72.0% 
+################################################ 
+Training 15 
+Training model using 71000 epochs 
+Time spent = 309.07857751846313 
+Accuracy = 71.0% 
+################################################ 
+Training 16 
+Training model using 76000 epochs 
+Time spent = 335.1899366378784 
+Accuracy = 72.0% 
+################################################ 
+Training 17 
+Training model using 81000 epochs 
+Time spent = 355.7631323337555 
+Accuracy = 69.0% 
+################################################ 
+Training 18 
+Training model using 86000 epochs 
+Time spent = 377.1493492126465 
+Accuracy = 69.0% 
+################################################ 
+Training 19 
+Training model using 91000 epochs 
+Time spent = 400.45368909835815 
+Accuracy = 69.0% 
+################################################ 
+Training 20 
+Training model using 96000 epochs 
+Time spent = 418.57525849342346 
+Accuracy = 70.5% 
+################################################ 
+Training 21 
+Training model using 101000 epochs 
+Time spent = 469.4655945301056 
+Accuracy = 71.5% 
+############## Analysis finished ##############
+Best accuracy score: 72.0%
+Best score at training 13 with 61000 epochs
